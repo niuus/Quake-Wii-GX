@@ -1,4 +1,4 @@
-# **_Quake Wii / Quake GX_**
+# **_Quake Wii / Quake GX / Quake REV PAK_**
 A port of id Software's Quake to the Nintendo Wii and GameCube.
 
 Be sure to check out the [user guide](https://github.com/niuus/Quake-Wii-GX/blob/wiki/UserGuide.md) if you are new to Quake or Wii/GameCube homebrew.
@@ -32,3 +32,5 @@ https://eluancm.net/projects/quake-for-the-nintendo-wii/
 https://www.youtube.com/watch?v=xTSa5NsHxJI
 
 The second fork was Quake Wii, by Piko.
+
+The third fork was Quake Rev PAK, by Izhido.
